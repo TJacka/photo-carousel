@@ -4,6 +4,8 @@ const totalSlides = slides.length;
 
 document.getElementById('carousel-button-next').addEventListener('click', moveToNextSlide);
 document.getElementById('carousel-button-prev').addEventListener('click', moveToPrevSlide);
+document.querySelector(".slide-title").innerText = "City of Clouds"
+document.querySelector(".pos1").style.color = "silver";
 
 function hideAllSlides() {
     for (let slide of slides) {
@@ -11,8 +13,6 @@ function hideAllSlides() {
         slide.classList.add('carousel-item-hidden');
     }
 }
-
-
 
 function moveToNextSlide() {
     hideAllSlides();
@@ -25,10 +25,19 @@ function moveToNextSlide() {
     
     if (slidePosition === 0) {
         document.querySelector(".slide-title").innerText = "City of Clouds";
+        document.querySelector(".pos1").style.color = "silver";
+        document.querySelector(".pos2").style.color = "white";
+        document.querySelector(".pos3").style.color = "white";
     } else if (slidePosition === 1) {
         document.querySelector(".slide-title").innerText = "City of Bridges";
+        document.querySelector(".pos1").style.color = "white";
+        document.querySelector(".pos2").style.color = "silver";
+        document.querySelector(".pos3").style.color = "white";
     } else if (slidePosition === 2) {
         document.querySelector(".slide-title").innerText = "City of Lights";
+        document.querySelector(".pos1").style.color = "white";
+        document.querySelector(".pos2").style.color = "white";
+        document.querySelector(".pos3").style.color = "silver";
     }
 }
 
@@ -41,6 +50,30 @@ function moveToPrevSlide() {
         slidePosition--;
     }
     slides[slidePosition].classList.add("carousel-item-visible");
+    if (slidePosition === 0) {
+        document.querySelector(".slide-title").innerText = "City of Clouds";
+    } else if (slidePosition === 1) {
+        document.querySelector(".slide-title").innerText = "City of Bridges";
+    } else if (slidePosition === 2) {
+        document.querySelector(".slide-title").innerText = "City of Lights";
+    }
+
+    if (slidePosition === 0) {
+        document.querySelector(".slide-title").innerText = "City of Clouds";
+        document.querySelector(".pos1").style.color = "silver";
+        document.querySelector(".pos2").style.color = "white";
+        document.querySelector(".pos3").style.color = "white";
+    } else if (slidePosition === 1) {
+        document.querySelector(".slide-title").innerText = "City of Bridges";
+        document.querySelector(".pos1").style.color = "white";
+        document.querySelector(".pos2").style.color = "silver";
+        document.querySelector(".pos3").style.color = "white";
+    } else if (slidePosition === 2) {
+        document.querySelector(".slide-title").innerText = "City of Lights";
+        document.querySelector(".pos1").style.color = "white";
+        document.querySelector(".pos2").style.color = "white";
+        document.querySelector(".pos3").style.color = "silver";
+    }
 }
 
 setInterval(function() {

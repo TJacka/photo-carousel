@@ -65,12 +65,36 @@ main {
 }
 
 .slide-title {
-    font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 600;
     text-shadow: 0 0 5px black;
     color: white;
     width: 100%;
     position: absolute;
-    transform: translateY(-200%);
+    transform: translateY(-1180%);
     text-align: center;
+}
+
+.slide-dots {
+    font-size: 4rem;
+    font-weight: 600;
+    text-shadow: 0 0 5px black;
+    color: white;
+    width: 100%;
+    position: absolute;
+    transform: translateY(-180%);
+    text-align: center;
+    cursor: pointer;
+}
+
+.pos1 {
+    margin: 0 5px;
+}
+
+.pos2 {
+    margin: 0 5px;
+}
+
+.pos3 {
+    margin: 0 5px;
 }
