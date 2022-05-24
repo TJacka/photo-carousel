@@ -22,6 +22,8 @@ A Javascript Photo Carousel
 
 - Shifts through selection of photos on right or left button click 
 
+- CSS animations used on photo change
+
 <br>
 
 **Upgraded Features:**
