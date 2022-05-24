@@ -1,3 +1,5 @@
+<p align="center">
+
 # Photo Carousel
 
 <br>
@@ -38,4 +40,4 @@ A Javascript Photo Carousel
 
 Created by Thomas Jacka. Images courtesy of pexels.com.
 
-
+</p>
