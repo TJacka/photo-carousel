@@ -4,7 +4,7 @@
 
 <br>
 
-**Link To Project:** https://tjacka.github.io/photo-carousel/
+**Link to live project:** https://tjacka.github.io/photo-carousel/
 
 <img src="https://i.ibb.co/6s3ktsy/Carousel.jpg" alt="Carousel" border="0">
 
