@@ -12,16 +12,24 @@ function hideAllSlides() {
     }
 }
 
+
+
 function moveToNextSlide() {
     hideAllSlides();
-    
     if (slidePosition === totalSlides - 1) {
         slidePosition = 0;
     } else {
         slidePosition++;
     }
-    
     slides[slidePosition].classList.add("carousel-item-visible");
+    
+    if (slidePosition === 0) {
+        document.querySelector(".slide-title").innerText = "City of Clouds";
+    } else if (slidePosition === 1) {
+        document.querySelector(".slide-title").innerText = "City of Bridges";
+    } else if (slidePosition === 2) {
+        document.querySelector(".slide-title").innerText = "City of Lights";
+    }
 }
 
 function moveToPrevSlide() {
@@ -32,6 +40,11 @@ function moveToPrevSlide() {
     } else {
         slidePosition--;
     }
-    
     slides[slidePosition].classList.add("carousel-item-visible");
 }
+
+setInterval(function() {
+    moveToNextSlide()
+  }, 3000);
+
+  
