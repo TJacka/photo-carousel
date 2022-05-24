@@ -6,7 +6,7 @@
 
 **Link to live project:** https://tjacka.github.io/photo-carousel/
 
-<img src="https://i.ibb.co/6s3ktsy/Carousel.jpg" alt="Carousel" border="0">
+<img src="https://i.ibb.co/tCdD2WN/Carousel.jpg" alt="Carousel" border="0">
 
 <br>
 
