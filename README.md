@@ -4,7 +4,9 @@
 
 <br>
 
-A Javascript Photo Carousel - **Link To Project:** https://tjacka.github.io/photo-carousel/
+A Javascript Photo Carousel
+  
+**Link To Project:** https://tjacka.github.io/photo-carousel/
 
 <img src="https://i.ibb.co/6s3ktsy/Carousel.jpg" alt="Carousel" border="0">
 
@@ -30,7 +32,7 @@ Image titles
 
 Image position tracker dots
 
-<br>
+<br><br>
 
 Created by Thomas Jacka. Images courtesy of pexels.com.
 
