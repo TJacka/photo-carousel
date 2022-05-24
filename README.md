@@ -4,13 +4,9 @@
 
 <br>
 
-A Javascript Photo Carousel
+A Javascript Photo Carousel - **Link To Project:** https://tjacka.github.io/photo-carousel/
 
 <img src="https://i.ibb.co/6s3ktsy/Carousel.jpg" alt="Carousel" border="0">
-
-<br>
-
-**Link To Project:** https://tjacka.github.io/photo-carousel/
 
 <br>
 
