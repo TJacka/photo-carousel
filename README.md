@@ -10,7 +10,9 @@
 
 <br>
 
-**Tech Used:** HTML, CSS, JavaScript
+**Tech Used:** 
+  
+HTML, CSS, JavaScript
 
 <br> 
 
