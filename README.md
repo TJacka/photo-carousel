@@ -32,6 +32,4 @@ Image titles
 
 Image position tracker dots
 
-<br><br>
-
 </div>
