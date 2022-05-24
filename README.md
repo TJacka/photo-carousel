@@ -34,6 +34,10 @@ Image position tracker dots
 
 <br><br>
 
-Created by Thomas Jacka. Images courtesy of pexels.com.
+</div>
+
+<div align="right">
+  
+Images courtesy of pexels.com.
 
 </div>
