@@ -10,13 +10,13 @@
 
 <br>
 
-###Tech Used: 
+### Tech Used: 
   
 HTML, CSS, JavaScript
 
 <br> 
 
-###Standard Features:
+### Standard Features:
 
 Shifts through selection of photos on right or left button click 
 
@@ -24,7 +24,7 @@ CSS animations used on photo change
 
 <br>
 
-###Upgraded Features:
+### Upgraded Features:
 
 Auto scroll through photos
 
