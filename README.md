@@ -20,12 +20,14 @@ A Javascript Photo Carousel
 
 <br> 
 
+  <div text-align="center">
 **Standard Features:**
 
 - Shifts through selection of photos on right or left button click 
 
 - CSS animations used on photo change
 
+  </div>
 <br>
 
 **Upgraded Features:**
