@@ -20,23 +20,21 @@ A Javascript Photo Carousel
 
 <br> 
 
-  <div text-align="left">
 **Standard Features:**
 
-- Shifts through selection of photos on right or left button click 
+Shifts through selection of photos on right or left button click 
 
-- CSS animations used on photo change
+CSS animations used on photo change
 
-  </div>
 <br>
 
 **Upgraded Features:**
 
-- Auto scroll through photos
+Auto scroll through photos
 
-- Image titles
+Image titles
 
-- Image position tracker dots
+Image position tracker dots
 
 <br>
 
