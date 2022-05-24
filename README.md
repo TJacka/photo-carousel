@@ -35,9 +35,3 @@ Image position tracker dots
 <br><br>
 
 </div>
-
-<div align="right">
-  
-Images courtesy of pexels.com.
-
-</div>
