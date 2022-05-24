@@ -6,7 +6,7 @@ A Javascript Photo Carousel
 
 <br>
 
-**Link To Project:** [https://tjacka.github.io/photo-carousel/]
+**Link To Project:** https://tjacka.github.io/photo-carousel/
 
 <br>
 
