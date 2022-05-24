@@ -1,10 +1,6 @@
 <div align="center">
 
 # Photo Carousel
-
-<br>
-
-A Javascript Photo Carousel
   
 **Link To Project:** https://tjacka.github.io/photo-carousel/
 
